@@ -233,6 +233,11 @@ plt.savefig('plot.png')      # Save Figure
 | `^` | Triangle |
 | `*` | Star |
 
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/c3d9fdbe-5984-4021-bece-4c418bc12086" />
+
+
 ---
 
 ## 9. Commonly Used Functions
