@@ -403,27 +403,24 @@ print(f"Best Day: {days[best_day]} (${sales[best_day]})")
 
 ---
 
-## 📎 Repo Structure Suggestion (for GitHub)
+---
 
-```
-matplotlib-visualization-guide/
-├── README.md                     <- this document
-├── notebooks/
-│   ├── 01_basic_plots.ipynb
-│   ├── 02_advanced_plots.ipynb
-│   └── 03_pandas_integration.ipynb
-├── data/
-│   └── data.csv
-└── requirements.txt
-```
+# 👨‍💻 Author
 
-**`requirements.txt`**
-```
-matplotlib
-numpy
-pandas
-```
+**Sanjay Unagar**
+
+Data Analyst | Python | SQL | Excel | Power BI | Data Visualization
+
+🔗 GitHub:  
+https://github.com/SanjayTUnagar
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/sanjayunagar/
 
 ---
 
-*Extracted and organized from the "Matplotlib — Complete Python Data Visualization Guide" reference sheet.*
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+---
