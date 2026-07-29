@@ -126,6 +126,11 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/041d1e88-0a28-427b-a807-6386b727c9af" />
+
+
 ---
 
 ## 5. Pie Chart
@@ -141,6 +146,10 @@ plt.pie(sizes, labels=labels, autopct='%1.1f%%',
 plt.title('Pie Chart')
 plt.show()
 ```
+
+## ✅ Output
+
+<img width="537" height="505" alt="image" src="https://github.com/user-attachments/assets/b7592798-5fa5-40a8-9a2e-e7752152cf92" />
 
 ---
 
