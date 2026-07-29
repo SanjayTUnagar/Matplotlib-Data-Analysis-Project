@@ -403,8 +403,6 @@ print(f"Best Day: {days[best_day]} (${sales[best_day]})")
 
 ---
 
----
-
 # 👨‍💻 Author
 
 **Sanjay Unagar**
