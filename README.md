@@ -30,23 +30,6 @@ import pandas as pd
 
 ---
 
-## 🧱 Basic Plot Syntax
-
-```python
-plt.plot(x, y)
-plt.title('Title')
-plt.xlabel('X axis')
-plt.ylabel('Y axis')
-plt.grid(True)
-plt.show()
-
-```
-## ✅ Output
-
-<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/ba46d064-4add-4d71-8617-ff656caa558f" />
-
----
-
 ## 📚 Table of Contents
 
 1. [Line Plot](#1-line-plot)
@@ -81,6 +64,9 @@ plt.ylabel('Y axis')
 plt.grid(True)
 plt.show()
 ```
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/ba46d064-4add-4d71-8617-ff656caa558f" />
 
 ---
 
