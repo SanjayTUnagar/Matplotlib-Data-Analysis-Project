@@ -273,6 +273,10 @@ plt.ylabel('Values')
 plt.title('Box Plot')
 plt.show()
 ```
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/70ecac57-3b68-4b92-8e5e-c602d9942fc9" />
+
 
 ### Heatmap (Using imshow)
 
@@ -286,6 +290,10 @@ plt.colorbar()
 plt.title('Heatmap')
 plt.show()
 ```
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/98e14502-7226-43a9-af39-8b51954c8bc4" />
+
 
 ### 3D Plot (mplot3d)
 
@@ -305,6 +313,10 @@ ax.plot_surface(X, Y, Z, cmap='viridis')
 ax.set_title('3D Plot')
 plt.show()
 ```
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/f29683c6-7f7c-4a4c-9880-d165f5869b13" />
+
 
 ### Polar Plot
 
@@ -318,6 +330,10 @@ plt.polar(theta, r)
 plt.title('Polar Plot')
 plt.show()
 ```
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/3010d86f-9d5d-4a24-b62d-ca066d1c1489" />
+
 
 ### Bubble Chart
 
@@ -332,6 +348,10 @@ plt.xlabel('X axis')
 plt.ylabel('Y axis')
 plt.show()
 ```
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/873c9407-eb88-4524-adb1-7d1fdfd1b693" />
+
 
 ---
 
@@ -348,6 +368,10 @@ plt.xlabel('X')
 plt.ylabel('Y')
 plt.show()
 ```
+## ✅ Output
+
+<img width="762" height="300" alt="image" src="https://github.com/user-attachments/assets/8f36edd5-ff85-48d1-a922-843f0a7c17a9" />
+
 
 ---
 
