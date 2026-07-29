@@ -41,7 +41,7 @@ plt.grid(True)
 plt.show()
 
 ```
-Output
+## ✅ Output
 
 <img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/ba46d064-4add-4d71-8617-ff656caa558f" />
 
