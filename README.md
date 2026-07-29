@@ -85,6 +85,9 @@ plt.ylabel('Values')
 plt.show()
 ```
 
+## ✅ Output
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/c3ddba9f-b12e-4b1f-ba03-19088b9d11cb" />
+
 ---
 
 ## 3. Scatter Plot
@@ -92,8 +95,8 @@ plt.show()
 Relationship between two variables using dots.
 
 ```python
-x = [1, 2, 3, 4, 5]
-y = [5, 3, 6, 2, 7]
+x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+y = [5, 3, 6, 2, 7, 5, 9, 10, 2, 3]
 
 plt.scatter(x, y, color='green', s=60)
 plt.title('Scatter Plot')
@@ -101,6 +104,11 @@ plt.xlabel('X axis')
 plt.ylabel('Y axis')
 plt.show()
 ```
+
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/6bb3cc79-32fc-434f-9a96-3dd63441d075" />
+
 
 ---
 
