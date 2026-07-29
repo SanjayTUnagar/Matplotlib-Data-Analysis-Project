@@ -167,6 +167,10 @@ plt.title('Area Plot')
 plt.show()
 ```
 
+## ✅ Output
+
+<img width="757" height="552" alt="image" src="https://github.com/user-attachments/assets/3cdf67f8-a8b3-4e57-a70f-4b597514acad" />
+
 ---
 
 ## 7. Subplots (Multiple Plots)
@@ -190,6 +194,9 @@ plt.title('Bar')
 plt.tight_layout()
 plt.show()
 ```
+## ✅ Output
+
+<img width="850" height="601" alt="image" src="https://github.com/user-attachments/assets/42552295-6188-413a-80ba-c3eb2d3419a0" />
 
 ---
 
