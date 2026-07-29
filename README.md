@@ -391,6 +391,10 @@ plt.ylabel('Y axis')
 plt.grid(True)
 plt.show()
 ```
+## ✅ Output
+
+<img width="770" height="505" alt="image" src="https://github.com/user-attachments/assets/d0c93210-adab-436a-b55e-11cdb797b116" />
+
 
 ---
 
@@ -431,6 +435,10 @@ print(f"Total Sales: ${sum(sales)}")
 print(f"Average Sales: ${sum(sales)/len(sales):.2f}")
 print(f"Best Day: {days[best_day]} (${sales[best_day]})")
 ```
+## ✅ Output
+
+<img width="982" height="676" alt="image" src="https://github.com/user-attachments/assets/4a29b860-a187-4576-8bab-606cca81793a" />
+
 
 **What this project demonstrates:** basic line plotting, markers, titles/labels, highlighting a specific data point with `scatter()` + `text()`, and saving a chart with `savefig()` — a simple, complete beginner project using only Matplotlib.
 
