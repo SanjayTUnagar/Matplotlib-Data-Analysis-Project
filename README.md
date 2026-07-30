@@ -458,7 +458,7 @@ print(f"Best Day: {days[best_day]} (${sales[best_day]})")
 
 **Sanjay Unagar**
 
-Data Analyst | Python | SQL | Excel | Power BI | Data Visualization
+Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization
 
 🔗 GitHub:  
 https://github.com/SanjayTUnagar
